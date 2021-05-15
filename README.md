@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm AmirAli-REback</h1>
-<h3 align="center">A passionate frontend developer from iran</h3>
+<h3 align="center">A passionate frontend and backend developer from iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirali-reback&label=Profile%20views&color=0e75b6&style=flat" alt="amirali-reback" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirali-reback&label=viwes&color=00fbff&style=flat" alt="amirali-reback" /> </p>
 
-- 🔭 I’m currently working on [php downloader](https://github.com/AmirAli-REback/youtube-downloader)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirali-reback" alt="amirali-reback" /></a> </p>
+
+- 🔭 I’m currently working on [youtube downloader](https://github.com/AmirAli-REback/youtube-downloader)
 
 - 💬 Ask me about **Everything**
 
@@ -11,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/- ∞ AmirAli ¯̶̄Mïłtøη#4391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="- ∞ AmirAli ¯̶̄Mïłtøη#4391" height="30" width="40" /></a>
+<a href="https://discord.gg/ZGndBvHErS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="ZGndBvHErS" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirali-reback&show_icons=true&locale=en&layout=compact" alt="amirali-reback" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirali-reback&show_icons=true&locale=en" alt="amirali-reback" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirali-reback&theme=highcontrast" alt="amirali-reback" /></p>
+
