@@ -22,4 +22,4 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirali-reback&theme=highcontrast" alt="amirali-reback" /></p>
 <br>
-<p><img align="center" src="https://discord.c99.nl/widget/theme-3/599883507418005510.png" alt="amirali-reback" /></p>
+<p><img align="center" src="https://discord.c99.nl/widget/theme-3/- ∞ AmirAli ¯̶̄Mïłtøη#4391.png" alt="amirali-reback" /></p>
