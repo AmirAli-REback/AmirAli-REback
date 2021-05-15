@@ -4,17 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirali-reback&label=viwes&color=00fbff&style=flat" alt="amirali-reback" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirali-reback" alt="amirali-reback" /></a> </p>
-```php
-<?php
-class aboutme{
-public $discord = "- ∞ AmirAli ¯̶̄Mïłtøη#4391";
 
-privet $myproject = "project uploder site";
-}
-$about = new aboutme();
-echo $about->$discord;
-?>
-```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
